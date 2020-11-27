@@ -10,16 +10,16 @@ For the design process i have decided to come out with a simple layout and a sin
 
 ## Features
 ### Existing Features
-.the user can always use the navigation menu that i have created at the top of the webpage to move between sections between the webpage without getting lost.
-.embeded social media icons button, to allow recruiters to connect with me easily 
-.an embeded resume button, so that it will direct them to another website for further information about me.
-.it is supported through many devices, ranging from phone, tablets to computers.
-.arrow up and down button to bring users right to the bottom or top of the webpage
+- the user can always use the navigation menu that i have created at the top of the webpage to move between sections between the webpage without getting lost.
+- embeded social media icons button, to allow recruiters to connect with me easily 
+- an embeded resume button, so that it will direct them to another website for further information about me.
+- it is supported through many devices, ranging from phone, tablets to computers.
+- arrow up and down button to bring users right to the bottom or top of the webpage
 
 ## Technologies Used
-.HTML
-.CSS
-.JavaScript
+- HTML
+- CSS
+- JavaScript
 ## Testing
 ## Credits
 
