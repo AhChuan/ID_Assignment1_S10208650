@@ -28,6 +28,7 @@ For the design process i have decided to come out with a simple layout and a sin
 - testing of social media links to see if they are able to open it successfully when the button is being clicked
 - making sure that the intended image should appear in the correct area i wanted it to be
 - making sure that i am able to upload all my certifications on the webpage
+- i have tested my webpage on every single web browser that i could think of
 ## Credits
 ### Content
 - Majority of the context used is my personal information from a wix portfolio 
