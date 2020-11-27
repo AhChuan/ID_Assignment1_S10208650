@@ -29,6 +29,7 @@ For the design process i have decided to come out with a simple layout and a sin
 - making sure that the intended image should appear in the correct area i wanted it to be
 - making sure that i am able to upload all my certifications on the webpage
 - i have tested my webpage on every single web browser that i could think of
+- through out this assignment i have encountered several problems such as incorrect DOCTYPE, uneven tables, unwanted space between list items, and many others.
 ## Credits
 ### Content
 - Majority of the context used is my personal information from a wix portfolio 
