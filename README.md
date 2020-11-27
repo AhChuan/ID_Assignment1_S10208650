@@ -24,7 +24,16 @@ For the design process i have decided to come out with a simple layout and a sin
 - JavaScript
   - use to add arrow up and down button for users to get to the top of the page easily
 ## Testing
-
+- using of w3school code validator to test out my overall coding to see if there is any error
+- testing of social media links to see if they are able to open it successfully when the button is being clicked
+- making sure that the intended image should appear in the correct area i wanted it to be
+- making sure that i am able to upload all my certifications on the webpage
 ## Credits
+### Content
+- Majority of the context used is my personal information from a wix portfolio 
+### Media
+- Some of the photo used in this site were obtained from google
+### Acknowledgements
+- I received inspiration for this project from multiple youtube videos
 
 
