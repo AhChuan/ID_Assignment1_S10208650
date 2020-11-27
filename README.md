@@ -18,9 +18,13 @@ For the design process i have decided to come out with a simple layout and a sin
 
 ## Technologies Used
 - HTML
+  - use to write out the whole body of my webpage
 - CSS
+  - use to beauty my background web image, fonts on words, adjusting the correct size of information when the size of the webpage is being resized.   
 - JavaScript
+  - use to add arrow up and down button for users to get to the top of the page easily
 ## Testing
+
 ## Credits
 
 
