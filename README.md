@@ -1,4 +1,2 @@
-# ID_Assignment1_S10208650
+# Leaning Github
 
-##sub heading
-i love you
